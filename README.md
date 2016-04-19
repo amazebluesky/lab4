@@ -17,4 +17,4 @@ float :存4個byte
 double :存8個byte
 pointer是存8個byte
 
-電腦是64bits = 8 bytes. 而Pointer是存取記憶體位置, 而且char, int, float, double的記憶體大小皆為8bytes. 所以大小為8bytes.
+電腦是64bits = 8 bytes. 而因為Pointer是存取記憶體位置, 而且char, int, float, double的記憶體大小皆為8bytes. 所以大小為8bytes.
